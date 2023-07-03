@@ -1,0 +1,3 @@
+*.li
+.last_tmp.py
+__pycache__/
